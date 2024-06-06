@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Open Sans", sans-serif ;
+}
+
+.bg-pink {
+    background-color: #E83E8C;
+    
+}
+
+.container-fluid{
+    width: 132px;
+    height: 75px;
+}
+
+.logoimg{
+    width: 132px;
+height: 53px;
+}
+
+/* No fue necesario colocar esto:
+.navbar-nav{
+}
+porque en el html ul lo pude resolver
+*/
+
+
+.text-center{
+    color: #707070;
+    font-weight: 700;
+    font-size: 60px;
+    padding-block: 3%;
+}
+
+section{
+    background-color: #17A2B8;
+    height: 170px;
+}
+
+.ahoraaceptamos{
+    color: white;
+}
+
+.icons {
+	font-size: 80px;
+    color: white;
+}
+
+footer img{
+    width: 2.25rem;
+}
